@@ -9,7 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define LASERMODULE_PIN_S	2
 
 // =======================Pin Definitions // ===================================
 
